@@ -1,0 +1,15 @@
+.Part3 {
+    margin-top: 180px;
+    margin-left: 180px;
+    background-image: url(../../assets/banner-bg-1.webp);
+    width: 84% ;
+    height: 62vh;
+    background-repeat: no-repeat;
+    
+}
+.textc{
+    margin-left: 28%;
+    padding-top:9%;
+    text-align: center;
+    color: #7c5e48;
+}
